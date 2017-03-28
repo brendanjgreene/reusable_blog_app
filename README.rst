@@ -26,7 +26,7 @@ Quick start
 
     <link rel="stylesheet" href="{% static "css/blog.css" %}">
 
-5. Add a link to the blog in base.html
+5. Add a link to the blog in base.html::
 
     <li><a href="/blog/">Our Blog</a></li>
 
